@@ -7,9 +7,19 @@ public class hi {
 	
 ///jhbib
 ///dfdfde
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> branch 'master' of https://github.com/cubicnow/ytcschool.git
 //dfdfghf
+<<<<<<< HEAD
 
 //rrrdfd
 
+=======
+
+//rrrdfd[p]
+
+>>>>>>> branch 'master' of https://github.com/cubicnow/ytcschool.git
 }
