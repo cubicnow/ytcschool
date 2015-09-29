@@ -5,4 +5,7 @@ public class sdasd {
 //┴┴┤┘
 	//ss
 	//dfdse
+
+//?┬╝├м?Э┬и├к┬?
+//ь┐дь┐д
 }
