@@ -1,10 +1,14 @@
 package hellogit;
 
 public class hi {
-//ff
+//ffrerf
 //dd
-//ddds
+//dddsfe
 ///jhbib
 ///dfdfde
+<<<<<<< HEAD
 //dfdfghf
+=======
+//rrrdfd
+>>>>>>> branch 'master' of https://github.com/cubicnow/ytcschool.git
 }
